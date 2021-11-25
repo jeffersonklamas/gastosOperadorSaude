@@ -1,6 +1,6 @@
 ## Uso de Power BI
 
-Para criar a solução para uma operadora de plano de saúde com base nos requisitos abaixo listados, foi usado um dataset (com dados fictícios).
+Solução para uma operadora de plano de saúde realizar a **análise de gastos** com base nos requisitos abaixo listados, foi usado um dataset (com dados fictícios).
 
 ## Aprendizado:
 
