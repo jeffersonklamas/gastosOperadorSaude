@@ -48,9 +48,8 @@ Os requisitos 5 e 6 não poderão ser respondidos, os dados disponíveis não re
 
 ## Solução
 
-![relatorio](https://github.com/jeffersonklamas/gastosOperadorSaude/tree/main/Imagem)
+![relatorio](https://github.com/jeffersonklamas/gastosOperadorSaude/blob/main/Imagem/tela01_solucao.png)
 
-![relatorio](C:\Users\jeffe\Documents\CURSOS_DSA\POWER_BI\Cap07\Desafio_02\Imagem\tela01_solucao.png)
 
 ## Dataset usado
 
