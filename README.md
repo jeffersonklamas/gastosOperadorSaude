@@ -2,7 +2,7 @@
 
 Para criar a solução para uma operadora de plano de saúde com base nos requisitos abaixo listados, foi usado um dataset (com dados fictícios).
 
-### Aprendizado:
+## Aprendizado:
 
 Ao ler os requisitos, e ao analisar o dataset em formato csv, percebi inconsistências na maneira como o mesmo foi gerado, foi necessário preparar o mesmo para após modelar e criar a visualização.
 
@@ -14,7 +14,7 @@ Com relação aos requisitos 5 e 6, tinha imaginado a solução, mas, só confir
 
 No mais o que percebi é colocar em prática o conhecimento aprendido, gerando novos relatórios e dashboards com a análise dos resultados.
 
-### Laboratório de estudo Capítulo 07, Curso Microsoft Power BI para Data Science, em [datascienceacademy.com.br](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)
+Laboratório de estudo Capítulo 07, Curso Microsoft Power BI para Data Science, em [datascienceacademy.com.br](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)
 
 ### Requisitos para Análise de Gastos de Operadoras de Plano de Saúde
 
@@ -40,19 +40,19 @@ Os diretores precisam de respostas às seguintes perguntas:
 
 10. Se for homem, com mais de 50 anos e da região Sudeste, o gasto é maior ou menor que a média de gastos da região? 
 
-#### Observações:
+## Observações:
 
 Ao analisar os dados, havia inconsistências que no momento não puderam ser resolvidas, havia na coluna `Gênero` valores em brancos e números, sem relação com a informação solicitada pela coluna, estas linhas foram descartadas.
 
 Os requisitos 5 e 6 não poderão ser respondidos, os dados disponíveis não refletem o que consta na especificação dos requisitos, por esse motivo foram desconsiderados.
 
-### Solução
+## Solução
 
-![relatorio](C:\Users\jeffe\Documents\CURSOS_DSA\POWER_BI\Cap07\tela01_solucao.png)
+![relatorio](C:\Users\jeffe\Documents\CURSOS_DSA\POWER_BI\Cap07\Desafio_02\Imagem\tela01_solucao.png)
 
-### Dataset usado
+## Dataset usado
 
-
+[Arquivo](C:\Users\jeffe\Documents\CURSOS_DSA\POWER_BI\Cap07\Desafio_02\Dataset)
 
 
 
